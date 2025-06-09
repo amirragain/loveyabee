@@ -9,7 +9,7 @@ heart.addEventListener('click',function(){
 
 // 打字效果
 let i =0
-let str = 'Ever since I saw you my heart felt like it was about to explode and my mind just went blah blah blah blah blah I love her now.            Im really love you bee'
+let str = 'Ever since I saw you my heart felt like it was about to explode and my mind just went blah blah blah blah blah I love her now.            I really love you bee'
 let strp = ''
 
 function print()
